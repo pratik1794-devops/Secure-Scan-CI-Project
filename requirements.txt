@@ -1,0 +1,7 @@
+requests>=2.25.1
+PyYAML>=5.4.1
+reportlab>=3.6.3
+python-jenkins>=1.7.0
+pytest>=6.2.5
+bandit>=1.7.0
+safety>=1.10.3

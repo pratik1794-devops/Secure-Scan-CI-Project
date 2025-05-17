@@ -1,0 +1,12 @@
+# Security policy thresholds
+max_severity: high
+max_issues: 5
+critical_fail: true
+
+# Allowed vulnerability age (days)
+max_vuln_age: 90
+
+# Dependency policies
+dependency_policies:
+  require_pinned_versions: true
+  allow_pre_releases: false
